@@ -29,13 +29,13 @@ header, .final  {
 }
 
 .separador1 {
-	background-image: url("/img/separa1.png");
+	background-image: url("../img/separa1.png");
 	height: 20px;
 	background-size: cover;
 }
 
 .separador2 {
-	background-image: url("/img/separa2.png");
+	background-image: url("../img/separa2.png");
 	height: 20px;
 	background-size: cover;
 }
