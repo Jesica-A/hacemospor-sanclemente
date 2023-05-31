@@ -290,9 +290,21 @@ button:focus {
 	.portada img {
 		height: 350px;
 	}
+	h1 {
+		font-size: 3.375rem;
+	}
+	h2 {
+		font-size: 2.5rem;
+	}
+
+	.sobre-nosotros h2 {
+		font-size: 2rem;
+	}
+
 	.persona1 img {
 		height: 260px;
 	}
+
 	.carousel img {
 		height: 250px;
 	}
@@ -303,6 +315,9 @@ button:focus {
 	.propuestas .card {
 		width: 300px ;
 		margin-bottom: 10px;
+	}
+	.votaciones p:nth-child(-n+4){
+		font-size: 1.5rem;
 	}
 }
 
